@@ -1,0 +1,10 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Blooser's blog"
+theme = "hello-friend-ng"
+paginate = 10
+
+[[menu.main]]
+indentifier = "blog"
+name = "Blog"
+url = "/posts"
